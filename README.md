@@ -9,13 +9,13 @@ Follow these steps to set up the application:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dkoderweb/restaurant-location-app.git
+   git clone https://github.com/dkoderweb/restaurant-location-calculation-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd restaurant-location-app
+   cd restaurant-location-calculation
    ```
 
 3. Install dependencies:
